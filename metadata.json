@@ -1,0 +1,5 @@
+{
+  "name": "Yakıt Takip Sistemi",
+  "description": "An advanced web application for the General Directorate of Forestry (OGM) to track fuel consumption for aircraft and tankers. Features a multi-module admin panel for data management, record editing, approval workflows, analytics, and data export to Excel/PDF.",
+  "requestFramePermissions": []
+}
